@@ -1,0 +1,11 @@
+.vazifa{
+  margin: 0 auto;
+  width: auto;
+  height: 150px;
+  background-color: aliceblue;
+  border-radius: 10px;
+  font-size: 35px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  margin-top: 100px;
+  text-align: center;
+}
